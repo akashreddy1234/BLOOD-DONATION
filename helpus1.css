@@ -1,0 +1,22 @@
+.sec1{
+    text-align: center;
+        background: #DD172B;
+        padding: 20px;
+    }
+    .first{
+        display: inline-block;
+        width: 50vw;
+          margin-bottom: 15px;
+        text-align: center;
+        background:white;
+    
+        border: 2px lightsalmon solid;
+        border-radius: 12px;
+    }
+    .made{
+        padding: 5px;
+        color: white;   
+        text-align: center;
+        background: black;
+        font-family: "Lucida Handwriting";
+    }

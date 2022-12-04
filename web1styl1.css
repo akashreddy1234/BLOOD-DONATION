@@ -1,0 +1,129 @@
+html{
+    margin: 0px;
+    height: 100%;
+    background: wheat;
+}
+body{
+background: white;
+    width: 80%;
+    margin: auto;
+}
+.header_first
+{
+    background: #DD172B;
+    color: white;
+    padding: 5px;
+}
+.header_first div{
+    display: inline-block;
+    width: 45%;
+    vertical-align: middle;
+    font-size: 15px;
+}
+.header_first .float1
+{
+    width: 25%;
+    float: right;
+}
+.header_logo{
+    height: auto;
+    margin-top: 10px;
+}
+nav ul{
+    list-style: none;
+    background: lightgray;
+    margin-bottom: 0;
+    padding: 4px;
+
+}
+header nav li
+{
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+    float: left;
+    padding: 9px;
+    font-size: 14px;
+}
+.clearfix{
+    clear: both;
+}
+ nav li a{
+     text-decoration: none;
+     color: black;
+     padding: 20px;
+ }
+ nav li :hover{
+     color: white;
+     background: #DD172B;
+ }
+ .section_first{
+     background: #DD172B;
+     box-sizing: border-box;
+     height: 73vh;
+
+ }
+
+ .section_first_you{
+    display: inline-block;
+    margin: 10px;
+    margin-top: 20px;
+    vertical-align: top;
+}
+ .section_first_form{
+     display: inline-block;
+     width: 22%;
+   
+     margin-right: 20px;
+     margin-top: 35px;
+     vertical-align: top;
+
+ }
+ form{
+     height: 100%;
+     text-align: center;
+     background: #c9161c;
+     padding: 6px 4px 8px;
+
+     border-radius: 5px;
+
+
+ }
+ form h2{
+     color: white;
+     font-size: 20px;
+ }
+ form input{
+     display: block;
+     border-radius: 6px;
+     border: none;
+     width: 80%;
+     margin: auto;
+     padding: 6px;
+     padding-top: 14px;
+     margin-top: 10px;
+
+ }
+ form button{
+
+     outline: none;
+     cursor: pointer;
+     padding: 10px 16px;
+     margin: 15px;
+     color: white;
+     border-radius: 4px;
+     border: none;
+     background: darkred;
+     font-size: 15px;
+ }
+.made
+{
+    padding: 5px;
+    color: white;
+    text-align: center;
+    background: black;
+    font-family: "Lucida Handwriting";
+}
+.india{
+    color:orange;
+}
+
